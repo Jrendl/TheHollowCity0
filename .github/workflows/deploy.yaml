@@ -13,6 +13,9 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: false
+
+env:
+  THEME_NAME: things
  
 jobs:
   build:
