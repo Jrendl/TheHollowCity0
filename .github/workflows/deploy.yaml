@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  THEME_NAME: things
+  THEME_NAME: aura
  
 jobs:
   build:
