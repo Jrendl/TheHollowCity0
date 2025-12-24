@@ -1,0 +1,1 @@
+The group of Adventurers that rescued [[PCs/Damian]] from [[Lore/Zor'ath]]. Consisting of [[NPCs/Agis Qinqwarin]] the elf cleric, [[NPCs/Krokgrerra Lightbrand]] the dwarf ranger, [[NPCs/Berhtwald Hallowedbrook]] the human wizard, and the party leader [[NPCs/Morn]] the half-orc champion.
