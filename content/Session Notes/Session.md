@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Session Notes/Session.md","created":"2025-12-07T15:31:30.533-08:00","modified":"2025-12-20T12:49:24.775-08:00","published":"2025-12-20T12:49:24.775-08:00","tags":"sessionnote","cssclasses":"","sessionNum":"undefined","summary":null,"Date":"Sunday, November 30th, 2025"}
+{"publish":true,"permalink":"/Session Notes/Session.md","created":"2026-01-11T14:25:48.743-06:00","modified":"2026-01-25T16:35:37.316-06:00","published":"2026-01-25T16:35:37.316-06:00","tags":"sessionnote","cssclasses":"","sessionNum":"undefined","summary":null,"Date":"Sunday, November 30th, 2025"}
 ---
 
 # [[Session Notes/Session]]
@@ -33,11 +33,11 @@
     - could choose to do this before, or ethan will put them together
 
 ### Connections
-- [[PCs/Marlowe Escall\|Marlowe]] would be a regular at [[PCs/Alex\|ALex]]'s old bookstore
+- [[PCs/Marlowe Escall\|Marlowe]] would be a regular at [[PCs/Sylvia\|ALex]]'s old bookstore
 - [[PCs/Damian]] was chased to [[PCs/Xanotteron Ti'vahl O'lócë\|Xan]]'s monestary
-- [[PCs/Joren Whitlock\|Justing]] and [[PCs/John Moneyman\|Connor]] could be a good couple up
+- [[PCs/Joren Whitlock\|Justing]] and [[PCs/Rathil Vazar\|Connor]] could be a good couple up
     - holy hand grenades
-    - [[PCs/Caroline (TBN)\|Caroline]] also in
+    - [[PCs/Nerola\|Caroline]] also in
     - 
 
 ### Story start

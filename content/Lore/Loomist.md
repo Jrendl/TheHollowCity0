@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Lore/Loomist.md","created":"2025-12-07T15:31:30.533-08:00","modified":"2025-12-07T16:38:06.655-08:00","published":"2025-12-07T16:38:06.655-08:00","cssclasses":""}
+{"publish":true,"permalink":"/Lore/Loomist.md","created":"2026-01-11T14:25:40.526-06:00","modified":"2025-12-07T18:38:06.000-06:00","published":"2025-12-07T18:38:06.000-06:00","cssclasses":""}
 ---
 
 Follower of [[Lore/The Faith of The Loom]]

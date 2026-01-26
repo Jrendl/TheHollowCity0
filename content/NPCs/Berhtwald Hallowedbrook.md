@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/NPCs/Berhtwald Hallowedbrook.md","aliases":["Berhtwald","Hallowedbrook"],"created":"2025-12-20T12:16:10.353-08:00","modified":"2025-12-20T12:16:22.097-08:00","published":"2025-12-20T12:16:22.097-08:00","tags":["NPC"],"cssclasses":""}
+{"publish":true,"permalink":"/NPCs/Berhtwald Hallowedbrook.md","aliases":["Berhtwald","Hallowedbrook"],"created":"2026-01-11T14:25:48.637-06:00","modified":"2025-12-20T14:16:22.000-06:00","published":"2025-12-20T14:16:22.000-06:00","tags":["NPC"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Lore/Areligious.md","aliases":["Areligion"],"created":"2025-12-07T15:31:30.533-08:00","modified":"2025-12-07T16:38:09.287-08:00","published":"2025-12-07T16:38:09.287-08:00","tags":["Lore","Religion"],"cssclasses":""}
+{"publish":true,"permalink":"/Lore/Areligious.md","aliases":["Areligion"],"created":"2026-01-11T14:25:40.520-06:00","modified":"2025-12-07T18:38:09.000-06:00","published":"2025-12-07T18:38:09.000-06:00","tags":["Lore","Religion"],"cssclasses":""}
 ---
 
 Despite the existence of Clerical and Divine Magics, a portion of people are still areligious. Below are some reasons why a character may be areligious.

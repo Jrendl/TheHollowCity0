@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Locations/Kamor.md","aliases":["City of Stars","The Hollow City"],"created":"2025-12-07T15:31:30.533-08:00","modified":"2025-12-07T16:37:49.635-08:00","published":"2025-12-07T16:37:49.635-08:00","tags":["#Location","City"],"cssclasses":""}
+{"publish":true,"permalink":"/Locations/Kamor.md","aliases":["City of Stars","The Hollow City"],"created":"2026-01-11T14:25:40.051-06:00","modified":"2025-12-07T18:37:49.000-06:00","published":"2025-12-07T18:37:49.000-06:00","tags":["#Location","City"],"cssclasses":""}
 ---
 
 Once hailed as the [[Locations/Kamor\|City of Stars]], [[Locations/Kamor]] was a glittering metropolis of brass towers, stained glass, and spell-lit streets where invention and sorcery intertwined so seamlessly that the boundary between them dissolved. Suspended over the chasm of the [[Locations/Aurelian Rift]] by vast rune-forged silver chains, [[Locations/Kamor]] was a marvel of both arcane engineering and ambition; a city that hummed with energy day and night, powered by the mysterious “[[Lore/Aether Core]]” buried deep beneath its central spire.

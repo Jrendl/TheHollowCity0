@@ -1,4 +1,4 @@
 ---
-{"publish":true,"permalink":"/NPCs/NPCs.md","created":"2025-12-07T15:31:30.533-08:00","modified":"2025-12-07T23:31:00.000-08:00","published":"2025-12-07T23:31:00.000-08:00","cssclasses":"","color":"var(--mk-color-charcoal)","sticker":"lucide//person-standing"}
+{"publish":true,"permalink":"/NPCs/NPCs.md","created":"2026-01-11T14:25:37.282-06:00","modified":"2025-12-08T01:31:00.000-06:00","published":"2025-12-08T01:31:00.000-06:00","cssclasses":"","color":"var(--mk-color-charcoal)","sticker":"lucide//person-standing"}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/NPCs/Agis Qinqwarin.md","aliases":["Agis","Qinqwarin"],"created":"2025-12-20T12:07:30.828-08:00","modified":"2025-12-20T13:38:22.636-08:00","published":"2025-12-20T13:38:22.636-08:00","tags":["NPC"],"cssclasses":""}
+{"publish":true,"permalink":"/NPCs/Agis Qinqwarin.md","aliases":["Agis","Qinqwarin"],"created":"2026-01-11T14:25:48.631-06:00","modified":"2025-12-20T15:38:22.000-06:00","published":"2025-12-20T15:38:22.000-06:00","tags":["NPC"],"cssclasses":""}
 ---
 
 

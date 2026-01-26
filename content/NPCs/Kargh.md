@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/NPCs/Kargh.md","aliases":["Kargh"],"created":"2025-12-20T13:20:16.590-08:00","modified":"2025-12-20T13:20:29.982-08:00","published":"2025-12-20T13:20:29.982-08:00","tags":["NPC"],"cssclasses":""}
+{"publish":true,"permalink":"/NPCs/Kargh.md","aliases":["Kargh"],"created":"2026-01-11T14:25:48.642-06:00","modified":"2025-12-20T15:20:29.000-06:00","published":"2025-12-20T15:20:29.000-06:00","tags":["NPC"],"cssclasses":""}
 ---
 
 

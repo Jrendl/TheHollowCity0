@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/PCs/Marlowe Escall.md","aliases":["Marlowe","Escall"],"created":"2025-12-07T15:49:48.037-08:00","modified":"2025-12-07T16:37:27.027-08:00","published":"2025-12-07T16:37:27.027-08:00","tags":["PC"],"cssclasses":"","player":"Cal"}
+{"publish":true,"permalink":"/PCs/Marlowe Escall.md","aliases":["Marlowe","Escall"],"created":"2026-01-11T14:25:48.721-06:00","modified":"2025-12-07T18:37:27.000-06:00","published":"2025-12-07T18:37:27.000-06:00","tags":["PC"],"cssclasses":"","player":"Cal"}
 ---
 
 **Player**: `INPUT[playerSelector][]`
@@ -15,5 +15,6 @@ INPUT[list(placeholder("None")):aliases]
 ## Appearances
 | Page                                      | Mentions |
 | ----------------------------------------- | -------- |
-| [[Session Notes/Session 0\|Session 0]] | 1        |
+| [[Session Notes/Session 1\|Session 1]] | 8        |
+| [[Session Notes/Session\|Session]]     | 1        |
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/PCs/Xanotteron Ti'vahl O'lócë.md","aliases":["Xanotteron","O'lócë","Xan"],"created":"2025-12-07T15:31:30.533-08:00","modified":"2025-12-20T12:33:25.288-08:00","published":"2025-12-20T12:33:25.288-08:00","tags":["PC"],"cssclasses":"","player":"Joe"}
+{"publish":true,"permalink":"/PCs/Xanotteron Ti'vahl O'lócë.md","aliases":["Xanotteron","O'lócë","Xan"],"created":"2026-01-11T14:25:46.033-06:00","modified":"2025-12-20T14:33:25.000-06:00","published":"2025-12-20T14:33:25.000-06:00","tags":["PC"],"cssclasses":"","player":"Joe"}
 ---
 
 **Player**: `INPUT[playerSelector][]`
@@ -17,11 +17,12 @@ Unannounced to the party, in his pack he carries with him an intricate Gi of bla
 ## Appearances
 | Page                                                             | Mentions |
 | ---------------------------------------------------------------- | -------- |
+| [[Session Notes/Session 1\|Session 1]]                        | 9        |
+| [[Session Notes/Session\|Session]]                            | 1        |
 | [[Hidden/Xan's Backstory for Adam\|Xan's Backstory for Adam]] | 8        |
 | [[Hidden/Xan's Backstory\|Xan's Backstory]]                   | 40       |
 | [[NPCs/Agis Qinqwarin\|Agis Qinqwarin]]                       | 1        |
 | [[NPCs/Kargh\|Kargh]]                                         | 1        |
-| [[Session Notes/Session\|Session]]                            | 1        |
 | [[PCs/Xanotteron Ti'vahl O'lócë\|Xanotteron Ti'vahl O'lócë]]  | 2        |
 | [[NPCs/Kadau O'lócë\|Kadau O'lócë]]                           | 2        |
 | [[NPCs/Munob O'lócë\|Munob O'lócë]]                           | 1        |

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Lore/The Faith of The Loom.md","aliases":["Loomism","Grand Tapestry","Loom of Eternity","The Divine Loom"],"created":"2025-12-07T15:31:30.533-08:00","modified":"2025-12-07T16:38:12.347-08:00","published":"2025-12-07T16:38:12.347-08:00","tags":["Lore","Religion"],"cssclasses":""}
+{"publish":true,"permalink":"/Lore/The Faith of The Loom.md","aliases":["Loomism","Grand Tapestry","Loom of Eternity","The Divine Loom"],"created":"2026-01-11T14:25:40.514-06:00","modified":"2025-12-07T18:38:12.000-06:00","published":"2025-12-07T18:38:12.000-06:00","tags":["Lore","Religion"],"cssclasses":""}
 ---
 
 ## Description

@@ -1,0 +1,1 @@
+The city where [[PCs/Joren Whitlock\|Joren]], [[PCs/Rathil Vazar\|Rathil]], and [[PCs/Nerola]] began their journey

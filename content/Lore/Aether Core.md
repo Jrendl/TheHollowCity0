@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Lore/Aether Core.md","created":"2025-12-07T15:31:30.533-08:00","modified":"2025-12-07T16:37:59.099-08:00","published":"2025-12-07T16:37:59.099-08:00","tags":["Lore","Object"],"cssclasses":""}
+{"publish":true,"permalink":"/Lore/Aether Core.md","created":"2026-01-11T14:25:40.063-06:00","modified":"2025-12-07T18:37:59.000-06:00","published":"2025-12-07T18:37:59.000-06:00","tags":["Lore","Object"],"cssclasses":""}
 ---
 
 

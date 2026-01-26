@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/NPCs/Kadau O'lócë.md","aliases":["Kadau","O'lócë"],"created":"2025-12-07T15:31:30.533-08:00","modified":"2025-12-07T23:31:00.000-08:00","published":"2025-12-07T23:31:00.000-08:00","tags":["NPC","Deceased"],"cssclasses":""}
+{"publish":true,"permalink":"/NPCs/Kadau O'lócë.md","aliases":["Kadau","O'lócë"],"created":"2026-01-11T14:25:46.151-06:00","modified":"2025-12-08T01:31:00.000-06:00","published":"2025-12-08T01:31:00.000-06:00","tags":["NPC","Deceased"],"cssclasses":""}
 ---
 
 **Deceased or Missing** 

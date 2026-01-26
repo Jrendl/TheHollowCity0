@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/PCs/Damian.md","aliases":["Damian"],"created":"2025-12-07T15:52:28.704-08:00","modified":"2025-12-20T12:13:45.379-08:00","published":"2025-12-20T12:13:45.379-08:00","tags":["PC"],"cssclasses":"","player":"Adam"}
+{"publish":true,"permalink":"/PCs/Damian.md","aliases":["Damian"],"created":"2026-01-11T14:25:48.686-06:00","modified":"2025-12-20T14:13:45.000-06:00","published":"2025-12-20T14:13:45.000-06:00","tags":["PC"],"cssclasses":"","player":"Adam"}
 ---
 
 **Player**: `INPUT[playerSelector][]`
@@ -17,10 +17,11 @@ INPUT[list(placeholder("None")):aliases]
 ## Appearances
 | Page                                                             | Mentions |
 | ---------------------------------------------------------------- | -------- |
+| [[Session Notes/Session 1\|Session 1]]                        | 5        |
+| [[Session Notes/Session\|Session]]                            | 1        |
 | [[Hidden/Xan's Backstory for Adam\|Xan's Backstory for Adam]] | 10       |
 | [[Hidden/Xan's Backstory\|Xan's Backstory]]                   | 10       |
 | [[NPCs/Agis Qinqwarin\|Agis Qinqwarin]]                       | 1        |
-| [[Session Notes/Session\|Session]]                            | 1        |
 | [[Lore/Zor'ath\|Zor'ath]]                                     | 1        |
 | [[Lore/The Iron Roses\|The Iron Roses]]                       | 1        |
 
