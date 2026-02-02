@@ -1,0 +1,1 @@
+The desert city home to wealthy merchants and more. [[NPCs/Serci]]'s home
