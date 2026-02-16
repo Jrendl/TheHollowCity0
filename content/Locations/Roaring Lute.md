@@ -1,0 +1,1 @@
+A tavern in [[Locations/Kamor]]'s [[Locations/stage district]]

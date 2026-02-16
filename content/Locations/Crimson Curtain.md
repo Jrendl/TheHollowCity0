@@ -1,0 +1,1 @@
+Fancy night club in [[Locations/Kamor]]'s [[Locations/stage district]]. Contains a giant ass spider.

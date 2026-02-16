@@ -1,0 +1,1 @@
+entertainment district in [[Locations/Kamor]]

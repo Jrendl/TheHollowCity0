@@ -1,0 +1,1 @@
+a fancy restaurant in [[Locations/Kamor]]'s [[Locations/stage district]]

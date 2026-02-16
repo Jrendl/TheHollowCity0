@@ -1,0 +1,1 @@
+The Fancy hotel for out-of-towners in the [[Locations/stage district]]
