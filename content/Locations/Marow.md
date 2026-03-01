@@ -1,0 +1,2 @@
+- ballroom for the rich and elite
+- [[NPCs/Kreen\|Counselor Kreen]] owned it
